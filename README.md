@@ -3,3 +3,5 @@ If you want to understand the main concepts of this program you absolutely need 
 
 You can understand these concepts on the following link on Youtube or by reading some simple finance books.
 <br>[Video about Time Value of Money](https://www.youtube.com/watch?v=ks33lMoxst0)
+
+Here you can run the notebook <br>[Link to the](https://colab.research.google.com/drive/1RkLw5V6BCWc-fBkyT0pMm8k1TStHfe0n?usp=sharing)
